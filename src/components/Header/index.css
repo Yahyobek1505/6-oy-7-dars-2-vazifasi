@@ -1,12 +1,14 @@
 header{
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   padding: 10px;
   margin-bottom: 20px;
   box-shadow: 2px 9px 17px 0px rgba(112,88,88,0.75);
 }
 .menu{
 gap: 80px;
+flex-wrap: wrap;
 margin-top: 20px;
 }
 .menu li{
