@@ -6,3 +6,9 @@
   flex-wrap: wrap;
   gap: 20px;
 }
+form{
+  border: 1px solid rgba(128, 128, 128, 0.202);
+  padding: 10px;
+  box-shadow: 2px 9px 17px 0px rgba(129, 127, 127, 0.75);
+  border-radius: 10px;
+}

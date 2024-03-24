@@ -1,5 +1,6 @@
 .card{
   width: 18rem;
+  box-shadow: 2px 9px 7px 0px rgba(215, 214, 214, 0.75);
 }
 .card img{
   height: 200px;
