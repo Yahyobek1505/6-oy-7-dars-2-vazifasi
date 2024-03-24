@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
-import './App.css'
 import Header from './components/Header'
+import Card from './components/Card'
+import './App.css'
 
 function App() {
 
@@ -10,7 +11,12 @@ function App() {
     <Header></Header>
     <div className="container">    
 <div className="main">
-
+<Card></Card>
+<Card></Card>
+<Card></Card>
+<Card></Card>
+<Card></Card>
+<Card></Card>
 </div>
     </div>
     </>
