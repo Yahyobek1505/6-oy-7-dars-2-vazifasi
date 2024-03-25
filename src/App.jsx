@@ -61,7 +61,7 @@ function App() {
     if (isValid) {
       const phone = {
         name: nameRef.current.value,
-        description: nameRef.current.value,
+        description: descRef.current.value,
         status: statusRef.current.value,
         price: priseRef.current.value,
         category_id: 5,
